@@ -1,0 +1,32 @@
+.barra{
+    width: 500px;
+    height: 30px;
+    background-color: #dee1e4;
+    border-radius: 100px;
+    padding: 3px;
+    margin-top: 20px;
+}
+.diez , .veinte , .cincuenta , .setenta , .noventa{
+    background-color: #4caf50;
+    border-radius: 100px;
+    height: 30px;
+}
+.diez{
+    width: 10%;
+}
+.veinte{
+    width: 25%;
+}
+.cincuenta{
+    width: 50%;
+}
+.setenta{
+    width: 75%;
+}
+.noventa{
+    width: 90%;
+}
+p{
+margin: 0;
+padding: 0;
+}

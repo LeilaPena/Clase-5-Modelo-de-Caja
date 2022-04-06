@@ -1,0 +1,49 @@
+body{
+    background-color: #0acfcb;
+    font-family: Montserrat;
+    color: #3B435F;
+    font-size: 20px;
+    
+}
+.contenedor{
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    border-radius: 10px;
+}
+header{
+    padding-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.user , .front , .infrastructure{
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 80%;
+    height: 90px;
+    border-style: solid;
+    border-color: #D4DAE6;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 0px;
+}
+h1{
+    font-weight: lighter;
+    font-size: 23px;
+    font-weight: 700;
+
+}
+h4{
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #7C8494;
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: #eeeeee;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.container{
+    background-color: #0c1f2c;
+    text-align: center;
+    width: 600px;
+    margin: 50px 0 0 370px;
+    border-radius: 20px;
+    box-shadow: 0 7px 20px rgba(0, 0, 0, 0.7);
+    height: 920px;
+
+}
+img{
+    width: 170px;
+    padding: 60px 0 60px 0;
+    border-radius: 20px;
+}
+.casco{
+    background-color: #cb2140;
+    height: 340px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h1{
+    font-size: 40px;
+}
+span{
+    font-size: 11px;
+    margin-right: 10px;
+    border: #cb2140 solid 1px;
+    border-radius: 20px;
+    padding: 5px 10px;
+
+}
+h6{
+    font-size: 13px;
+    margin: 45px 0 10px 0;
+}
+.precio{
+    font-size: 35px;
+    margin-top: 0;
+}
+.comprar{
+    background-color: #cb2140;
+    padding: 10px;
+    margin: 0 200px 200px;
+    font-size: 15px;
+    border-radius: 18px;
+}

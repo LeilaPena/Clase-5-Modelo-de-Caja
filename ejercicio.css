@@ -1,0 +1,33 @@
+.contenedor {
+    background-color: red;
+    margin: 50px;
+    border-color: black;
+    border: solid;
+    border-width: 5px;
+    height: 480px;
+
+}
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+header{
+    background-color: deepskyblue;
+    margin: 50px 100px;
+    padding: 40px 100px 40px 10px;
+}
+article{
+    background-color: gold;
+    margin: 50px 200px;
+    padding: 10px 80px 10px 10px;
+}
+.foto{
+    background-color: limegreen;
+    margin: 50px 275px;
+    padding: 3%;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}

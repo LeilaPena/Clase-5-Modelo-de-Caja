@@ -1,0 +1,48 @@
+body{
+    background-color: #f2f2f2;
+    font-family: 'Mulish', sans-serif;
+    color: #343434;
+}
+.container{
+    background-color: white;
+    width: 640px;
+    margin: 50px 0 50px 290px;
+    padding: 40px 58px 50px 58px;
+}
+h1{
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+.dias{
+    display: flex;
+    margin-bottom: 50px;
+}
+.dias p{
+    margin-right: 0px;
+    padding: 10px;
+    font-size: 14px;
+}
+p{
+    color: #8c8c8c;
+}
+.todos{
+    background-color: #343434;
+    color: white;
+    border-radius: 5px;
+}
+span{
+    color: #ec6198;
+    margin-right: 5px;
+}
+h3{
+    font-size: 24px;
+}
+.cajas div{
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #f2f2f2;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+}
